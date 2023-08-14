@@ -23,7 +23,7 @@
 ### Welcome!  
 Mainly a back-end developer but I also do mobile and web development. I love working with servers and infrastructure and building systems.  
 I've started programming in 2014, then I started looking into back-end development in 2016. After that, I tried alot of different things to gain knowledge about the fields I'm interested in. I love working with things related to back-ends, networking, systems, automations, and more.
-Currently part of [@IEEEManSB](https://github.com/ieeemansb), [@CATReloaded](https://github.com/catreloaded), [@Elyra](https://github.com/ElyraTeam), and [@Mozakrtna](https://github.com/Mozakrty) 
+Currently part of [@IEEEManSB](https://github.com/ieeemansb), [@CATReloaded](https://github.com/catreloaded), [@Elyra](https://github.com/ElyraTeam), and [@Mozakrtna](https://github.com/Mozakrty).  
   
 
 <br/>  
@@ -74,6 +74,7 @@ Currently part of [@IEEEManSB](https://github.com/ieeemansb), [@CATReloaded](htt
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
+<a href="https://lua.org" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="Lua" height="50" /></a>
 </div>  
 
 
