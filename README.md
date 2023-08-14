@@ -1,4 +1,4 @@
-## Hello there!, I'm Hossam Mohsen  
+## Hello there!, I'm Hossam Mohsen 👋🏼  
   
 
 <a href="https://github.com/HossamMohsen7" target="_blank">
@@ -22,18 +22,19 @@
 
 ### Welcome!  
 Mainly a back-end developer but I also do mobile and web development. I love working with servers and infrastructure and building systems.  
+I've started programming in 2014, then I started looking into back-end development in 2016. After that, I tried alot of different things to gain knowledge about the fields I'm interested in. I love working with things related to back-ends, networking, systems, automations, and more.
+Currently part of [@IEEEManSB](https://github.com/ieeemansb), [@CATReloaded](https://github.com/catreloaded), [@Elyra](https://github.com/ElyraTeam), and [@Mozakrtna](https://github.com/Mozakrty) 
   
 
 <br/>  
 
 
 ## About me  
-<table><tr><td valign="top" width="50%">
 
 
 
 ### 🔭 I’m currently working on  
-- Systems, automation and website for [@ieeemansb](https://github.com/ieeemansb)
+- Systems, automation and website for [@IEEEManSB](https://github.com/ieeemansb)
 -  Mobile app and back-ends for [@CATReloaded](https://github.com/catreloaded)  
   
 
@@ -51,7 +52,6 @@ Mainly a back-end developer but I also do mobile and web development. I love wor
 - Backend and app for [@Mozakrtna](https://github.com/Mozakrty)  
 
 
-</td><td valign="top" width="50%">
 
 
 
