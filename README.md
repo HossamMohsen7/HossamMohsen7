@@ -79,6 +79,22 @@ Also: WebSockets, OAuth2, LangChain, RAG, Zod, CockroachDB, Oracle Cloud.
 - [Spectra Mappers](https://github.com/SpectraMappers) (NASA Space Apps 2024, Landsat data).
 
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-green-animate.svg" />
+    <img alt="3D contribution skyline" src="profile-3d-contrib/profile-night-rainbow.svg" />
+  </picture>
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamMohsen7/HossamMohsen7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HossamMohsen7/HossamMohsen7/output/github-snake.svg" />
+    <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/HossamMohsen7/HossamMohsen7/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<div align="center">
 
 <sub>Reach me at <a href="mailto:hossam@hossamohsen.me">hossam@hossamohsen.me</a>, on <a href="https://linkedin.com/in/hossammohsen">LinkedIn</a> or <a href="https://twitter.com/HossamMohsen77">Twitter</a>.</sub>
 
