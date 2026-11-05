@@ -1,145 +1,212 @@
-## Hello there!, I'm Hossam Mohsen 👋🏼  
-  
+<div align="center">
 
-<a href="https://github.com/HossamMohsen7" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-<a href="https://linkedin.com/in/hossammohsen" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:58a6ff,50:bc8cff,100:3fb950&section=header&text=&fontSize=0" width="100%" alt="" />
+
+<img src="assets/hero.svg" alt="whoami: Hossam Mohsen, backend & systems engineer" width="900" />
+
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+backends+that+don't+fall+over.;I+ship+mobile+apps+people+actually+use.;I+automate+the+boring+stuff+(then+write+about+it).;I+run+my+own+infra+for+fun.+Yes%2C+really." alt="Typing SVG" />
 </a>
-<a href="https://twitter.com/HossamMohsen77" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>  
-<a href="https://www.buymeacoffee.com/hossammohsen" target="_blank">
-    <img
-        src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=for-the-badge&logo=buymeacoffee" 
-        style="margin-bottom: 5px;"
-    />
-</a>  
-  
 
+<br/><br/>
 
+[![GitHub](https://img.shields.io/badge/GitHub-HossamMohsen7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HossamMohsen7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-hossammohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossammohsen)
+[![Twitter](https://img.shields.io/badge/Twitter-@HossamMohsen77-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HossamMohsen77)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hossammohsen)
+![Profile views](https://komarev.com/ghpvc/?username=HossamMohsen7&style=for-the-badge&color=3fb950&label=VISITORS)
 
-### Welcome!  
-Mainly a back-end developer but I also do mobile and web development. I love working with servers and infrastructure and building systems.  
-I've started programming in 2014, then I started looking into back-end development in 2016. After that, I tried alot of different things to gain knowledge about the fields I'm interested in. I love working with things related to back-ends, networking, systems, automations, and more.
-Currently part of [@IEEEManSB](https://github.com/ieeemansb), [@CATReloaded](https://github.com/catreloaded), [@Elyra](https://github.com/ElyraTeam), and [@Mozakrtna](https://github.com/Mozakrty).  
-  
+</div>
 
-<br/>  
+---
 
+## 🧬 `about.json`
 
-## About me  
+```jsonc
+{
+  "name": "Hossam Mohsen",
+  "title": "Backend & Systems Engineer",
+  "education": "Computer Engineering (student)",
+  "location": "Egypt 🇪🇬",
+  "coding_since": 2014,          // started with code
+  "backend_since": 2016,         // fell in love with servers
+  "loves": ["backends", "networking", "infrastructure", "automation", "systems design"],
+  "also_does": ["mobile (Flutter / Kotlin)", "web (Next.js / React)", "ML-powered apps"],
+  "communities": {
+    "@CATReloaded":  "mobile app + backends",
+    "@IEEEManSB":    "systems, automation, platforms (OpenLearn, judging tools, recruitment)",
+    "@ElyraTeam":    "backend + mobile, multiplayer minigames",
+    "@Mozakrtna":    "backend + app"
+  },
+  "currently_learning": ["front-end craft", "AI-integrated products", "distributed systems"],
+  "fun_fact": "I self-host my own servers and wrote my own Discord/Telegram bot (Baxter) for my friends."
+}
+```
 
+<br/>
 
+## 🛠️ Skillset
 
-### 🔭 I’m currently working on  
-- Systems, automation and website for [@IEEEManSB](https://github.com/ieeemansb)
--  Mobile app and back-ends for [@CATReloaded](https://github.com/catreloaded)  
-  
+<div align="center">
 
+**Languages**
 
+<img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,dart,py,cs,cpp,c,lua,bash&perline=11" alt="Languages" />
 
-### 🌱 I’m currently learning  
-- Some Front-end development!  
-  
+**Backend & Data**
 
+<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,graphql,prisma,postgres,mysql,mongodb,redis,firebase&perline=11" alt="Backend" />
 
+**Frontend & Mobile**
 
-### ✔️ I've worked on  
-- A private Discord and Telegram bot for me and my friends called Baxter
-- Backend and mobile apps for [@Elyra](https://github.com/ElyraTeam)
-- Backend and app for [@Mozakrtna](https://github.com/Mozakrty)  
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter,androidstudio,electron,figma&perline=9" alt="Frontend and mobile" />
 
+**Infra, Cloud & Tooling**
 
+<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,aws,azure,gcp,arduino&perline=9" alt="Infra" />
 
+</div>
 
+<details>
+<summary><b>📊 Proficiency at a glance</b></summary>
+<br/>
 
-</td></tr></table>  
+| Area | Level | Highlights |
+|---|---|---|
+| **Backend APIs** | ██████████ | Node.js · TypeScript · Express · Prisma · Zod · REST & GraphQL |
+| **Databases** | █████████░ | PostgreSQL · MySQL · MongoDB · Redis |
+| **Mobile** | ████████░░ | Flutter · Kotlin / Android · Java |
+| **Infra / DevOps** | ████████░░ | Docker · Linux · Nginx · CI/CD · self-hosting · cloud (AWS/Azure/GCP) |
+| **Web frontend** | ███████░░░ | React · Next.js · Tailwind |
+| **ML / Data** | ██████░░░░ | Python · model serving, OCR/AI integrations |
+| **Systems / Embedded** | ██████░░░░ | C / C++ · Arduino · automation |
 
-<br/>  
+</details>
 
+<br/>
 
-## Languages and Tools  
+## 🚀 Open Source & Public Work
 
+> A selection of public repos I've built or contributed to. Cards are live, so stars and descriptions update on their own.
 
-### What I can work with  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://lua.org" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original-wordmark.svg" alt="Lua" height="50" /></a>
-</div>  
+### 🔧 Developer tooling
 
+<div align="center">
 
+<a href="https://github.com/HossamMohsen7/zod-express-validator"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HossamMohsen7&repo=zod-express-validator&theme=github_dark&hide_border=true" alt="zod-express-validator" /></a>
+<a href="https://github.com/HossamMohsen7/express-typescript-template"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=HossamMohsen7&repo=express-typescript-template&theme=github_dark&hide_border=true" alt="express-typescript-template" /></a>
 
-### Frameworks, Libraries and Tools  
-<div align="center">  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-<a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>  
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
-<a href="https://www.prisma.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/prisma.png" alt="Prisma" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="50" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://redis.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" /></a>  
-<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-</div>  
+</div>
 
+### 🎓 Community & education (IEEE / CAT Reloaded)
 
+<div align="center">
 
-### Other things I do  
-<div align="center">  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
-<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="50" /></a>  
-</div>  
+<a href="https://github.com/IEEEManCSC/OpenLearnPlatform"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IEEEManCSC&repo=OpenLearnPlatform&theme=github_dark&hide_border=true" alt="OpenLearnPlatform" /></a>
+<a href="https://github.com/CATReloaded/CATReloaded-Circles-Roadmaps"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CATReloaded&repo=CATReloaded-Circles-Roadmaps&theme=github_dark&hide_border=true" alt="CATReloaded Roadmaps" /></a>
 
-<br/>  
+<a href="https://github.com/IEEEManCSC/sudo-i-bootcamp-2025"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IEEEManCSC&repo=sudo-i-bootcamp-2025&theme=github_dark&hide_border=true" alt="sudo-i bootcamp" /></a>
+<a href="https://github.com/IEEEManCSC/TechXchange-DevStorm"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=IEEEManCSC&repo=TechXchange-DevStorm&theme=github_dark&hide_border=true" alt="TechXchange DevStorm" /></a>
 
+</div>
 
-## Github Stats  
-<table><tr><td valign="top" width="50%">
+### 🎮 Games & products
 
-<img src="https://github-readme-stats.vercel.app/api?username=HossamMohsen7&show_icons=true&count_private=true&hide_border=true&theme=dark" align="left" style="width: 100%" />
+<div align="center">
 
-</td><td valign="top" width="50%">
+<a href="https://github.com/ElyraTeam/minigames-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElyraTeam&repo=minigames-backend&theme=github_dark&hide_border=true" alt="minigames-backend" /></a>
+<a href="https://github.com/ElyraTeam/minigames-web"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElyraTeam&repo=minigames-web&theme=github_dark&hide_border=true" alt="minigames-web" /></a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMohsen7&hide_border=true&layout=compact&theme=dark" align="left" style="width: 100%" />
+</div>
 
-</td></tr></table>  
+### 🏆 Hackathon builds (AI · mobile · backend)
 
+| Project | What it is | Stack |
+|---|---|---|
+| [**CashWise** · chatbot / Receipt-OCR / info-extractor](https://github.com/CashWiseProject) | AI finance assistant: OCR receipts into structured spending data | Python · OCR · LLMs |
+| [**Allam Future Makers** · backend / app / extension](https://github.com/Allam-Future-Makers) | Arabic LLM–powered features across app, backend and browser extension | Node · Flutter · AI |
+| [**Spectra Mappers**](https://github.com/SpectraMappers) | Data-driven mapping project: backend and data pipeline | Node · Data |
+| [**Delulu.inc · CashOverflow backend**](https://github.com/Victoris-5-0/Delulu.inc-CashOverflow-Backend) | Fintech hackathon backend | TypeScript · REST |
+| [**Postify / TaleOn / FounderX**](https://github.com/ieee-victoris-4-0) | AI products built at IEEE Victoris 4.0 (backend + Flutter + AI) | TS · Flutter · AI |
+| [**JPress**](https://github.com/JPress-IEEE) | Backend, frontend and AI translation/recommendation models | Java · React · ML |
+| [**Root-IEEE**](https://github.com/Root-IEEE) | Front-end, back-end and Flutter tracks for IEEE learners | Full stack |
 
-<br/>  
+<details>
+<summary><b>🔒 Private work I can talk about</b></summary>
+<br/>
 
-![Profile views counter](https://komarev.com/ghpvc/?username=HossamMohsen7&&style=for-the-badge)  
-  
+- **Baxter**: personal Discord + Telegram bot & desktop companion for my friend group
+- **HosServers / infra**: self-hosted infrastructure, IaC and deployments
+- **Marioma, UraLoungeErp, Learnest, Manaber, Yayora**: client and product backends / apps
+- **Blood Bank, QR ticketing, Smart Home, Fire Helmet, Arduino monitor**: full-stack and IoT builds
 
-<br/>  
+</details>
 
+<br/>
 
-<br />
+## 📈 Metrics
 
-----
+<div align="center">
+
+<a href="https://github.com/HossamMohsen7">
+<img height="190" src="https://github-readme-stats.vercel.app/api?username=HossamMohsen7&show_icons=true&count_private=true&hide_border=true&theme=github_dark&title_color=58a6ff&icon_color=bc8cff&ring_color=3fb950" alt="GitHub stats" />
+</a>
+<a href="https://github.com/HossamMohsen7">
+<img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HossamMohsen7&layout=donut-vertical&hide_border=true&theme=github_dark&title_color=58a6ff&langs_count=8" alt="Top languages" />
+</a>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=HossamMohsen7&theme=github-dark-blue&hide_border=true&border_radius=10" alt="GitHub streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HossamMohsen7&bg_color=0d1117&color=58a6ff&line=bc8cff&point=3fb950&area=true&area_color=58a6ff&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=HossamMohsen7&theme=darkhub&no-frame=true&row=1&margin-w=12" alt="Trophies" />
+
+</div>
+
+<br/>
+
+## 🐍 Contribution snake
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HossamMohsen7/HossamMohsen7/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HossamMohsen7/HossamMohsen7/output/github-snake.svg" />
+    <img alt="Contribution snake eating my commits" src="https://raw.githubusercontent.com/HossamMohsen7/HossamMohsen7/output/github-snake-dark.svg" />
+  </picture>
+</div>
+
+<br/>
+
+## 🧭 How I work
+
+<table>
+<tr>
+<td width="25%" valign="top"><b>🏗️ Design first</b><br/><sub>Model the data, draw the boundaries, then write code. Boring architecture beats clever architecture.</sub></td>
+<td width="25%" valign="top"><b>🔐 Type-safe by default</b><br/><sub>TypeScript + Zod + Prisma so bad data dies at the edge, not in production.</sub></td>
+<td width="25%" valign="top"><b>⚙️ Automate everything</b><br/><sub>CI/CD, bots, scripts and infra-as-code. If I do it twice, it becomes a script.</sub></td>
+<td width="25%" valign="top"><b>🤝 Ship with teams</b><br/><sub>Mentoring, bootcamps and hackathons with IEEE and CAT Reloaded: build fast, teach what I learn.</sub></td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+### 💬 Let's build something
+
+If you're hiring, collaborating, or just want to talk backends and infra, reach out on
+[**LinkedIn**](https://linkedin.com/in/hossammohsen) or [**Twitter**](https://twitter.com/HossamMohsen77).
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3fb950,50:bc8cff,100:58a6ff&section=footer" width="100%" alt="" />
+
+<sub>Built with ☕ and too many terminals · the hero above is a hand-written animated SVG</sub>
+
+</div>
