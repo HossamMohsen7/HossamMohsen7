@@ -27,11 +27,11 @@
   <line class="bar" x1="0" y1="38" x2="900" y2="38" stroke="url(#glow)" stroke-width="2"/>
 
   <g class="l l1"><text x="28" y="76"><tspan class="p">➜</tspan> <tspan class="k">~</tspan> <tspan class="c">whoami</tspan></text></g>
-  <g class="l l2"><text x="28" y="106" class="c" style="font-size:22px;font-weight:700">Hossam Mohsen <tspan class="d" style="font-size:15px;font-weight:400">// Backend &amp; Systems Engineer</tspan></text></g>
-  <g class="l l3"><text x="28" y="134"><tspan class="d">role     </tspan><tspan class="s">"Computer Engineering Student · Egypt 🇪🇬"</tspan></text></g>
-  <g class="l l4"><text x="28" y="160"><tspan class="d">stack    </tspan><tspan class="o">TypeScript</tspan><tspan class="d"> · </tspan><tspan class="o">Java</tspan><tspan class="d"> · </tspan><tspan class="o">Kotlin</tspan><tspan class="d"> · </tspan><tspan class="o">Dart</tspan></text></g>
-  <g class="l l5"><text x="28" y="186"><tspan class="d">builds   </tspan><tspan class="m">APIs, infra, automation, mobile apps</tspan></text></g>
+  <g class="l l2"><text x="28" y="106" class="c" style="font-size:22px;font-weight:700">Hossam Mohsen <tspan class="d" style="font-size:15px;font-weight:400">// Software Engineer</tspan></text></g>
+  <g class="l l3"><text x="28" y="134"><tspan class="d">role     </tspan><tspan class="s">"B.Sc. Computer &amp; Control Systems, Honors · Egypt 🇪🇬"</tspan></text></g>
+  <g class="l l4"><text x="28" y="160"><tspan class="d">stack    </tspan><tspan class="o">TypeScript</tspan><tspan class="d"> · </tspan><tspan class="o">Node.js</tspan><tspan class="d"> · </tspan><tspan class="o">Next.js</tspan><tspan class="d"> · </tspan><tspan class="o">Flutter</tspan><tspan class="d"> · </tspan><tspan class="o">Python</tspan></text></g>
+  <g class="l l5"><text x="28" y="186"><tspan class="d">builds   </tspan><tspan class="m">16+ production systems · 3,700+ participants</tspan></text></g>
   <g class="l l6"><text x="28" y="212"><tspan class="d">teams    </tspan><tspan class="k">@ieeeypegypt</tspan><tspan class="d"> · </tspan><tspan class="k">@ElyraTeam</tspan><tspan class="d"> · </tspan><tspan class="k">@IEEEManSB</tspan><tspan class="d"> · </tspan><tspan class="k">@CATReloaded</tspan></text></g>
   <g class="l l7"><text x="28" y="252"><tspan class="p">➜</tspan> <tspan class="k">~</tspan> <tspan class="c">cat status.txt</tspan></text></g>
-  <g class="l l8"><text x="28" y="280"><tspan class="p">●</tspan> <tspan class="c">open to collaborate, internships &amp; interesting problems</tspan><tspan class="cur c"> ▍</tspan></text></g>
+  <g class="l l8"><text x="28" y="280"><tspan class="p">●</tspan> <tspan class="c">open to remote software engineering roles</tspan><tspan class="cur c"> ▍</tspan></text></g>
 </svg>

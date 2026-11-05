@@ -2,12 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:58a6ff,50:bc8cff,100:3fb950&section=header&text=&fontSize=0" width="100%" alt="" />
 
-<img src="assets/hero.svg" alt="whoami: Hossam Mohsen, backend & systems engineer" width="900" />
+<img src="assets/hero.svg" alt="whoami: Hossam Mohsen, Software Engineer" width="900" />
 
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=I+build+backends+that+don't+fall+over.;I+ship+mobile+apps+people+actually+use.;I+automate+the+boring+stuff+(then+write+about+it).;I+run+my+own+infra+for+fun.+Yes%2C+really." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=58A6FF&center=true&vCenter=true&width=760&lines=I+build+across+the+stack+and+lead+the+teams+around+it.;16%2B+production+systems.+3%2C700%2B+participants.;Webmaster+%C2%B7+Founder+%C2%B7+Teaching+Assistant.;ALLaM+Challenge+national+finalist+(Riyadh)." alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -15,6 +15,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-HossamMohsen7-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HossamMohsen7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-hossammohsen-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hossammohsen)
 [![Twitter](https://img.shields.io/badge/Twitter-@HossamMohsen77-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/HossamMohsen77)
+[![npm](https://img.shields.io/badge/npm-zod--express--validator-CB3837?style=for-the-badge&logo=npm&logoColor=white)](https://www.npmjs.com/package/zod-express-validator)
 [![Buy Me A Coffee](https://img.shields.io/badge/Buy_me_a_coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/hossammohsen)
 ![Profile views](https://komarev.com/ghpvc/?username=HossamMohsen7&style=for-the-badge&color=3fb950&label=VISITORS)
 
@@ -27,24 +28,35 @@
 ```jsonc
 {
   "name": "Hossam Mohsen",
-  "title": "Backend & Systems Engineer",
-  "education": "Computer Engineering (student)",
+  "title": "Software Engineer (backend focus, full-stack reach)",
+  "education": "B.Sc. Computer & Control Systems Engineering, Mansoura University, Excellent with Honors (2025)",
   "location": "Egypt 🇪🇬",
-  "coding_since": 2014,          // started with code
-  "backend_since": 2016,         // fell in love with servers
-  "loves": ["backends", "networking", "infrastructure", "automation", "systems design"],
-  "also_does": ["mobile (Flutter / Kotlin)", "web (Next.js / React)", "ML-powered apps"],
-  "communities": {
-    "@ieeeypegypt":  "IEEE Young Professionals Egypt",
-    "@ElyraTeam":    "backend + mobile, multiplayer minigames",
-    "@IEEEManSB":    "systems, automation, platforms (OpenLearn, judging tools, recruitment)",
-    "@CATReloaded":  "mobile app + backends",
-    "@Mozakrtna":    "backend + app"
+  "coding_since": "age 12",
+  "backend_since": 2016,
+  "summary": "I build across the stack and lead the teams around it.",
+  "loves": ["backends", "system design", "infrastructure", "automation", "teaching"],
+  "currently": {
+    "@ieeeypegypt": "Webmaster (since Feb 2026)",
+    "@ElyraTeam":   "Founder, building elyra.games and client products",
+    "@IEEEManSB":   "Webmaster 2022 to 2026, 16+ production systems",
+    "@CATReloaded": "Team Coordinator 2023 to 2024 (alumni)"
   },
-  "currently_learning": ["front-end craft", "AI-integrated products", "distributed systems"],
-  "fun_fact": "I self-host my own servers and wrote my own Discord/Telegram bot (Baxter) for my friends."
+  "open_to": "remote software engineering roles"
 }
 ```
+
+<br/>
+
+## 📊 By the numbers
+
+<div align="center">
+
+| 🏗️ | 👥 | 🎟️ | 📨 |
+|:---:|:---:|:---:|:---:|
+| **16+**<br/>production systems shipped | **3,700+**<br/>Victoris participants (seasons 2 to 5) | **2,357**<br/>wallet tickets issued | **1,584**<br/>recruitment applicants handled |
+| **483**<br/>volunteers on one OAuth2 identity system | **978**<br/>verifiable certificates issued | **700+**<br/>members led at CAT Reloaded | **28,891**<br/>podcast views, first year back |
+
+</div>
 
 <br/>
 
@@ -54,43 +66,111 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,java,kotlin,dart,py,cs,cpp,c,lua,bash&perline=11" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,c,cpp,dart&perline=8" alt="Languages" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,django,graphql,prisma,postgres,mysql,mongodb,redis,firebase&perline=11" alt="Backend" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,postgres,mysql,mongodb,redis,graphql&perline=9" alt="Backend and data" />
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,flutter,androidstudio,electron,figma&perline=9" alt="Frontend and mobile" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio,electron,figma&perline=7" alt="Frontend and mobile" />
 
-**Infra, Cloud & Tooling**
+**Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,nginx,githubactions,git,aws,azure,gcp,arduino&perline=9" alt="Infra" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,githubactions,circleci,vercel,linux,git&perline=9" alt="Cloud and DevOps" />
+
+**AI & Realtime**
+
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ALLaM](https://img.shields.io/badge/ALLaM-SDAIA-006C35?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-agents-black?style=for-the-badge)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![WebSockets](https://img.shields.io/badge/WebSockets-realtime-blue?style=for-the-badge)
 
 </div>
 
-<details>
-<summary><b>📊 Proficiency at a glance</b></summary>
+<details open>
+<summary><b>🧠 Beyond the tools</b></summary>
 <br/>
 
-| Area | Level | Highlights |
-|---|---|---|
-| **Backend APIs** | ██████████ | Node.js · TypeScript · Express · Prisma · Zod · REST & GraphQL |
-| **Databases** | █████████░ | PostgreSQL · MySQL · MongoDB · Redis |
-| **Mobile** | ████████░░ | Flutter · Kotlin / Android · Java |
-| **Infra / DevOps** | ████████░░ | Docker · Linux · Nginx · CI/CD · self-hosting · cloud (AWS/Azure/GCP) |
-| **Web frontend** | ███████░░░ | React · Next.js · Tailwind |
-| **ML / Data** | ██████░░░░ | Python · model serving, OCR/AI integrations |
-| **Systems / Embedded** | ██████░░░░ | C / C++ · Arduino · automation |
+| Area | What I actually do with it |
+|---|---|
+| **API & data design** | REST API design, data modeling, database design (PostgreSQL, MySQL, MongoDB, CockroachDB), Prisma |
+| **Auth & identity** | OAuth2 identity provider, OTP login by email or Discord, role-based access for 13 committees |
+| **Realtime** | WebSocket game rooms with savable state, chat and leaderboards; live ticket scanning |
+| **Passes & payments** | Apple and Google Wallet passes, secure payment handling, PDF signing with public verification |
+| **AI products** | RAG rule checker (LangChain + Gemini), AI-assisted judging, multimodal ReAct agent on ALLaM, OCR pipelines |
+| **Quality & delivery** | Unit and integration testing, CI/CD with GitHub Actions and CircleCI, Docker, NGINX, Cloudflare, Oracle Cloud |
+| **Architecture** | System design, microservices, background jobs (Trigger.dev), transactional email pipelines |
+| **Leadership** | Led teams of 10+ engineers and 700+ members, agile/scrum, data structures and algorithms teaching |
 
 </details>
 
 <br/>
 
+## 💼 Experience
+
+| When | Role | Highlights |
+|---|---|---|
+| **Feb 2026 to now** | **Webmaster**, [IEEE Young Professionals Egypt](https://github.com/ieeeypegypt) | Owns the website for the national YP affinity group |
+| **Oct 2025 to Jun 2026** | **Teaching Assistant**, Faculty of Engineering, Mansoura University | Weekly labs for 3 courses (data structures and algorithms, computer graphics, digital control systems). Built Python pipelines for handwritten Arabic attendance sheets (fuzzy name matching) and grade processing |
+| **2024 to now** | **Project lead & sole backend dev**, [PopCors](https://popcors.com) (freelance) | EdTech platform with 900+ active users across the UAE and KSA: payments, video streaming, course management, and a migration off Cordova to Flutter |
+| **Jul to Sep 2024** | **Software Development Intern**, ITI | Android app in Kotlin with Retrofit and Room |
+| **Nov 2022 to Oct 2026** | **Webmaster**, [IEEE Mansoura Student Branch](https://mansoura.ieee.org/) | Led 10+ engineers shipping 16+ systems: OAuth2 identity, recruitment, wallet ticketing, IEEE Victoris, RAG rule checker, credentialing |
+| **Sep 2023 to Oct 2024** | **Team Coordinator**, [CAT Reloaded](https://catreloaded.org/) | Led 700+ members across 17 circles and 4 events with 1,960 registrations. Revived the PodCAT podcast |
+| **2022 to now** | **Founder**, [Elyra](https://elyra.games/) | Realtime multiplayer games platform and client products |
+| **2023** | **Back-End Instructor**, UCCD Mansoura | Designed and taught a 6-week Node.js and Express course |
+
+**🏅 ALLaM Challenge finalist (SDAIA, Riyadh, 2024).** Selected for the national final with a Flutter app powered by ALLaM, SDAIA's Arabic LLM: a multimodal ReAct agent with RAG, backed by Node.js/TypeScript and Python AI services.
+
+<br/>
+
+## 🧱 What I built at IEEE Mansoura
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🔐 Volunteer identity (OAuth2)**<br/>
+<sub>OTP login via email or Discord for 483 volunteers across 13 committees, powering every other system.</sub>
+
+**📨 Recruitment platform**<br/>
+<sub>1,584 applicants, 262 interviews and 812 interview slots over 4 cycles.</sub>
+
+**🎟️ Ticketing**<br/>
+<sub>Custom tickets with Apple and Google Wallet passes and live WebSocket scanning. 2,357 issued.</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**🏁 IEEE Victoris**<br/>
+<sub>Registration to automated judging, end to end. 1,137 participants on 289 teams in season 5, 3,700+ across seasons 2 to 5.</sub>
+
+**🤖 RAG rule checker**<br/>
+<sub>LangChain + Gemini flags team eligibility automatically. Plus AI-assisted judging for system design submissions.</sub>
+
+**📜 Credentialing**<br/>
+<sub>PDF signing with public verification. 978 certificates issued.</sub>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 ## 🚀 Open Source & Public Work
 
-> A selection of public repos I've built or contributed to. Cards are live, so stars and descriptions update on their own.
+### 📦 Published package
+
+<div align="center">
+
+[![zod-express-validator](https://img.shields.io/npm/v/zod-express-validator?style=for-the-badge&logo=npm&color=CB3837&label=zod-express-validator)](https://www.npmjs.com/package/zod-express-validator)
+[![weekly downloads](https://img.shields.io/npm/dw/zod-express-validator?style=for-the-badge&color=3fb950&label=weekly%20downloads)](https://www.npmjs.com/package/zod-express-validator)
+[![stars](https://img.shields.io/github/stars/HossamMohsen7/zod-express-validator?style=for-the-badge&logo=github&color=58a6ff)](https://github.com/HossamMohsen7/zod-express-validator)
+
+</div>
 
 ### 🔧 Developer tooling
 
@@ -101,7 +181,19 @@
 
 </div>
 
-### 🎓 Community & education (IEEE / CAT Reloaded)
+### 🎮 Games & AI products
+
+<div align="center">
+
+<a href="https://github.com/ElyraTeam/minigames-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElyraTeam&repo=minigames-backend&theme=github_dark&hide_border=true" alt="minigames-backend" /></a>
+<a href="https://github.com/ElyraTeam/minigames-web"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElyraTeam&repo=minigames-web&theme=github_dark&hide_border=true" alt="minigames-web" /></a>
+
+<a href="https://github.com/CashWiseProject/chatbot"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CashWiseProject&repo=chatbot&theme=github_dark&hide_border=true" alt="CashWise chatbot" /></a>
+<a href="https://github.com/CashWiseProject/Receipt-OCR"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=CashWiseProject&repo=Receipt-OCR&theme=github_dark&hide_border=true" alt="Receipt OCR" /></a>
+
+</div>
+
+### 🎓 Community & education
 
 <div align="center">
 
@@ -113,35 +205,26 @@
 
 </div>
 
-### 🎮 Games & products
-
-<div align="center">
-
-<a href="https://github.com/ElyraTeam/minigames-backend"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElyraTeam&repo=minigames-backend&theme=github_dark&hide_border=true" alt="minigames-backend" /></a>
-<a href="https://github.com/ElyraTeam/minigames-web"><img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ElyraTeam&repo=minigames-web&theme=github_dark&hide_border=true" alt="minigames-web" /></a>
-
-</div>
-
-### 🏆 Hackathon builds (AI · mobile · backend)
+### 🏆 Competitions & hackathons
 
 | Project | What it is | Stack |
 |---|---|---|
-| [**CashWise** · chatbot / Receipt-OCR / info-extractor](https://github.com/CashWiseProject) | AI finance assistant: OCR receipts into structured spending data | Python · OCR · LLMs |
-| [**Allam Future Makers** · backend / app / extension](https://github.com/Allam-Future-Makers) | Arabic LLM–powered features across app, backend and browser extension | Node · Flutter · AI |
-| [**Spectra Mappers**](https://github.com/SpectraMappers) | Data-driven mapping project: backend and data pipeline | Node · Data |
-| [**Delulu.inc · CashOverflow backend**](https://github.com/Victoris-5-0/Delulu.inc-CashOverflow-Backend) | Fintech hackathon backend | TypeScript · REST |
-| [**Postify / TaleOn / FounderX**](https://github.com/ieee-victoris-4-0) | AI products built at IEEE Victoris 4.0 (backend + Flutter + AI) | TS · Flutter · AI |
-| [**JPress**](https://github.com/JPress-IEEE) | Backend, frontend and AI translation/recommendation models | Java · React · ML |
-| [**Root-IEEE**](https://github.com/Root-IEEE) | Front-end, back-end and Flutter tracks for IEEE learners | Full stack |
+| [**CashWise**](https://github.com/CashWiseProject) | **Graduation project (A+).** I led a 10-person team across backend, AI and mobile tracks: multi-wallet finance platform with OCR receipt scanning, voice input, an AI chatbot and real-time WebSocket sync | Node · TypeScript · Prisma · WebSockets · Python |
+| [**ALLaM Challenge** (Allam Future Makers)](https://github.com/Allam-Future-Makers) | **National finalist, Riyadh.** Flutter app with a multimodal ReAct agent and RAG on SDAIA's Arabic LLM | Flutter · ALLaM · Node · Python |
+| [**IEEE Victoris hackathon builds**](https://github.com/ieee-victoris-4-0) | Postify, TaleOn and FounderX: AI products with backend, Flutter and AI tracks | TypeScript · Flutter · AI |
+| [**Delulu.inc · CashOverflow**](https://github.com/Victoris-5-0/Delulu.inc-CashOverflow-Backend) | Fintech hackathon backend | TypeScript · REST |
+| [**Spectra Mappers**](https://github.com/SpectraMappers) | Mapping project with backend and data pipeline | Node · Data |
+| [**JPress**](https://github.com/JPress-IEEE) | Backend, frontend and AI translation / recommendation models | Java · React · ML |
 
 <details>
 <summary><b>🔒 Private work I can talk about</b></summary>
 <br/>
 
-- **Baxter**: personal Discord + Telegram bot & desktop companion for my friend group
-- **HosServers / infra**: self-hosted infrastructure, IaC and deployments
-- **Marioma, UraLoungeErp, Learnest, Manaber, Yayora**: client and product backends / apps
-- **Blood Bank, QR ticketing, Smart Home, Fire Helmet, Arduino monitor**: full-stack and IoT builds
+- **PopCors**: production EdTech platform (900+ active users, UAE and KSA)
+- **IEEE Mansoura systems**: identity, recruitment, ticketing, Victoris, credentialing, judging
+- **Baxter**: personal Discord and Telegram bot for my friend group
+- **Infra / HosServers**: self-hosted infrastructure and deployments
+- **Client and product work**: Ura Lounge ERP, Marioma, Learnest, Manaber, Yayora, Blood Bank, QR ticketing, Smart Home, Fire Helmet
 
 </details>
 
@@ -191,9 +274,9 @@
 <table>
 <tr>
 <td width="25%" valign="top"><b>🏗️ Design first</b><br/><sub>Model the data, draw the boundaries, then write code. Boring architecture beats clever architecture.</sub></td>
-<td width="25%" valign="top"><b>🔐 Type-safe by default</b><br/><sub>TypeScript + Zod + Prisma so bad data dies at the edge, not in production.</sub></td>
-<td width="25%" valign="top"><b>⚙️ Automate everything</b><br/><sub>CI/CD, bots, scripts and infra-as-code. If I do it twice, it becomes a script.</sub></td>
-<td width="25%" valign="top"><b>🤝 Ship with teams</b><br/><sub>Mentoring, bootcamps and hackathons with IEEE and CAT Reloaded: build fast, teach what I learn.</sub></td>
+<td width="25%" valign="top"><b>🔐 Type-safe by default</b><br/><sub>TypeScript, Zod and Prisma so bad data dies at the edge, not in production.</sub></td>
+<td width="25%" valign="top"><b>⚙️ Automate everything</b><br/><sub>CI/CD, bots, background jobs and scripts. If I do it twice, it becomes automation.</sub></td>
+<td width="25%" valign="top"><b>🤝 Lead and teach</b><br/><sub>Led teams of 10+ and communities of 700+. I teach what I learn, from bootcamps to university labs.</sub></td>
 </tr>
 </table>
 
@@ -203,7 +286,7 @@
 
 ### 💬 Let's build something
 
-If you're hiring, collaborating, or just want to talk backends and infra, reach out on
+I'm looking for software engineering roles, remote or anywhere. Reach out on
 [**LinkedIn**](https://linkedin.com/in/hossammohsen) or [**Twitter**](https://twitter.com/HossamMohsen77).
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:3fb950,50:bc8cff,100:58a6ff&section=footer" width="100%" alt="" />
