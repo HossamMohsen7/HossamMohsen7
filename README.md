@@ -18,7 +18,7 @@
 
 </div>
 
-Software engineer from Egypt with a backend focus. I work across backend, frontend, mobile and cloud, and I lead the teams around it. B.Sc. in Computer and Control Systems Engineering from Mansoura University, Excellent with Honors (2025). Open to software engineering roles anywhere, remote or onsite.
+Software engineer from Egypt with a backend focus. I've been coding and building since I was 12. I work across backend, frontend, mobile and cloud, and I lead the teams around it. B.Sc. in Computer and Control Systems Engineering from Mansoura University, Excellent with Honors (2025). Open to software engineering roles anywhere, remote or onsite.
 
 <div align="center">
 
