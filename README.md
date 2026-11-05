@@ -37,7 +37,7 @@
   "loves": ["backends", "system design", "infrastructure", "automation", "teaching"],
   "currently": {
     "@ieeeypegypt": "Webmaster (since Feb 2026)",
-    "@ElyraTeam":   "elyra.games, realtime multiplayer games",
+    "@ElyraTeam":   "Founder. Small startup/team behind ElyraGames and Mozakrtna",
     "@IEEEManSB":   "Webmaster 2022 to 2026, 16+ production systems",
     "@CATReloaded": "Team Coordinator 2023 to 2024 (alumni)"
   },
@@ -122,6 +122,7 @@
 | **Feb 2026 to now** | **Webmaster**, [IEEE Young Professionals Egypt](https://ieeeypegypt.org/) | Manages the web presence and technical systems, built on WordPress |
 | **Oct 2025 to Jun 2026** | **Teaching Assistant**, Faculty of Engineering, Mansoura University | Weekly labs for 3 courses (data structures and algorithms, computer graphics, digital control systems). Built Python pipelines for handwritten Arabic attendance sheets (fuzzy name matching) and grade processing |
 | **Jul to Sep 2024** | **Software Development Intern**, ITI | Android app in Kotlin with Retrofit and Room |
+| **Ongoing** | **Founder**, [Elyra](https://github.com/ElyraTeam) | Small startup/team I founded, building products end to end: [ElyraGames](https://elyra.games/) (realtime multiplayer games) and Mozakrtna (study app) |
 | **Nov 2022 to Oct 2026** | **Webmaster**, [IEEE Mansoura Student Branch](https://mansoura.ieee.org/) | Led 10+ engineers shipping 16+ systems: OAuth2 identity, recruitment, wallet ticketing, IEEE Victoris, RAG rule checker, credentialing, Next.js site and 5 dashboards |
 | **Sep 2023 to Oct 2024** | **Team Coordinator**, [CAT Reloaded](https://catreloaded.org/) | 17 circles, 700+ members, 4 events with 1,960 registrations, 1,084 recruitment applicants. Revived the PodCAT podcast |
 | **2022 to 2023** | **CAT App Project Manager**, CAT Reloaded | Sprints, task distribution, backend and database development |
@@ -190,7 +191,7 @@
 
 </div>
 
-### 🎮 Games & AI products
+### 🎮 Elyra, games & AI products
 
 <div align="center">
 
@@ -221,12 +222,12 @@
 | **PopCors** (2024 to now) | EdTech platform for 900+ active users in the UAE and KSA: payments, video streaming, courses, migration off Cordova to Flutter | Node · TypeScript · Prisma · PostgreSQL · Flutter |
 | **Competition Judging System** (IEEE Victoris) | Judging platform across 6 competitions and 100+ teams, automating score computation | Node · TypeScript · Next.js |
 | **CodeSteps LMS** (IEEE) | Learning dashboard for kids: lessons, slides, timetable, assignments (20+ students) | Node · TypeScript · Next.js |
-| **ElyraGames** ([elyra.games](https://elyra.games/)) | Realtime multiplayer games with savable state, shared rooms, chat, leaderboards. 586+ rooms hosted and 32 completed games | Node · TypeScript · WebSockets |
+| **ElyraGames** by Elyra ([elyra.games](https://elyra.games/)) | Realtime multiplayer games with savable state, shared rooms, chat, leaderboards. 586+ rooms hosted and 32 completed games | Node · TypeScript · WebSockets |
 | **Student Telegram Bot** (2022 to now) | Timetables, reminders, lecture notes and recordings for 120+ students | Kotlin · Ktor |
 | **Multi-platform bot** (2018 to now) | Messenger, Discord and Telegram bot with custom command parsing, group rules, reward points and games | Java · Node · TypeScript |
 | **Unified auth system** (2017 to now) | Central login with OAuth2 grant types, JWTs and password reset, reused across projects | Java · Restlet |
 | **Version checking & updating system** (2016 to now) | Dashboard and API for distributing software updates, with Java, JavaScript and Dart client libraries | Java · Restlet |
-| **Mozakrtna** (2020) | Study app: YouTube playlist tracking and notifications, study plans with a points system | Flutter · Node |
+| **Mozakrtna** by Elyra (2020) | Study app: YouTube playlist tracking and notifications, study plans with a points system | Flutter · Node |
 | **egyFWD backends** (2022) | Image processing and caching service, e-commerce API with auth, deployment to AWS | Node |
 
 ### 🏆 Competitions & hackathons
