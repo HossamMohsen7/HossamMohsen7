@@ -35,9 +35,10 @@
   "loves": ["backends", "networking", "infrastructure", "automation", "systems design"],
   "also_does": ["mobile (Flutter / Kotlin)", "web (Next.js / React)", "ML-powered apps"],
   "communities": {
-    "@CATReloaded":  "mobile app + backends",
-    "@IEEEManSB":    "systems, automation, platforms (OpenLearn, judging tools, recruitment)",
+    "@ieeeypegypt":  "IEEE Young Professionals Egypt",
     "@ElyraTeam":    "backend + mobile, multiplayer minigames",
+    "@IEEEManSB":    "systems, automation, platforms (OpenLearn, judging tools, recruitment)",
+    "@CATReloaded":  "mobile app + backends",
     "@Mozakrtna":    "backend + app"
   },
   "currently_learning": ["front-end craft", "AI-integrated products", "distributed systems"],
