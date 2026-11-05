@@ -33,11 +33,11 @@
   "location": "Egypt 🇪🇬",
   "coding_since": "age 12",
   "backend_since": 2016,
-  "summary": "I build across the stack and lead the teams around it.",
+  "summary": "Architecture, backend, frontend, mobile and cloud. I build across the stack and lead the teams around it.",
   "loves": ["backends", "system design", "infrastructure", "automation", "teaching"],
   "currently": {
     "@ieeeypegypt": "Webmaster (since Feb 2026)",
-    "@ElyraTeam":   "Founder, building elyra.games and client products",
+    "@ElyraTeam":   "elyra.games, realtime multiplayer games",
     "@IEEEManSB":   "Webmaster 2022 to 2026, 16+ production systems",
     "@CATReloaded": "Team Coordinator 2023 to 2024 (alumni)"
   },
@@ -66,22 +66,27 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,c,cpp,dart&perline=8" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,py,java,kotlin,c,cpp,cs,dart&perline=9" alt="Languages" />
 
 **Backend & Data**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,prisma,postgres,mysql,mongodb,redis,graphql&perline=9" alt="Backend and data" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,spring,prisma,postgres,mysql,mongodb,firebase&perline=9" alt="Backend and data" />
 
 **Frontend & Mobile**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio,electron,figma&perline=7" alt="Frontend and mobile" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,flutter,androidstudio,kotlin&perline=6" alt="Frontend and mobile" />
 
 **Cloud & DevOps**
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,githubactions,circleci,vercel,linux,git&perline=9" alt="Cloud and DevOps" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,cloudflare,aws,githubactions,circleci,vercel,netlify,linux,git&perline=10" alt="Cloud and DevOps" />
 
 **AI & Realtime**
 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+![WebFlux](https://img.shields.io/badge/Spring_WebFlux-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
+![CockroachDB](https://img.shields.io/badge/CockroachDB-6933FF?style=for-the-badge&logo=cockroachlabs&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
 ![ALLaM](https://img.shields.io/badge/ALLaM-SDAIA-006C35?style=for-the-badge)
@@ -97,13 +102,13 @@
 
 | Area | What I actually do with it |
 |---|---|
-| **API & data design** | REST API design, data modeling, database design (PostgreSQL, MySQL, MongoDB, CockroachDB), Prisma |
-| **Auth & identity** | OAuth2 identity provider, OTP login by email or Discord, role-based access for 13 committees |
+| **API & data design** | REST API design, data modeling, database design (PostgreSQL, MySQL, MongoDB, CockroachDB, Firestore), Prisma, Hibernate |
+| **Auth & identity** | OAuth2 with multiple grant types, JWTs, password reset flows, OTP login by email or Discord, access for 13 committees |
 | **Realtime** | WebSocket game rooms with savable state, chat and leaderboards; live ticket scanning |
 | **Passes & payments** | Apple and Google Wallet passes, secure payment handling, PDF signing with public verification |
 | **AI products** | RAG rule checker (LangChain + Gemini), AI-assisted judging, multimodal ReAct agent on ALLaM, OCR pipelines |
-| **Quality & delivery** | Unit and integration testing, CI/CD with GitHub Actions and CircleCI, Docker, NGINX, Cloudflare, Oracle Cloud |
-| **Architecture** | System design, microservices, background jobs (Trigger.dev), transactional email pipelines |
+| **Quality & delivery** | Unit and integration testing, CI/CD with GitHub Actions and CircleCI, Docker, NGINX, Cloudflare, AWS, Oracle Cloud, Vercel, Netlify |
+| **Architecture** | System design, microservices, reactive Spring (WebFlux), Ktor, background jobs (Trigger.dev), transactional email pipelines |
 | **Leadership** | Led teams of 10+ engineers and 700+ members, agile/scrum, data structures and algorithms teaching |
 
 </details>
@@ -114,14 +119,15 @@
 
 | When | Role | Highlights |
 |---|---|---|
-| **Feb 2026 to now** | **Webmaster**, [IEEE Young Professionals Egypt](https://github.com/ieeeypegypt) | Owns the website for the national YP affinity group |
+| **Feb 2026 to now** | **Webmaster**, [IEEE Young Professionals Egypt](https://ieeeypegypt.org/) | Manages the web presence and technical systems, built on WordPress |
 | **Oct 2025 to Jun 2026** | **Teaching Assistant**, Faculty of Engineering, Mansoura University | Weekly labs for 3 courses (data structures and algorithms, computer graphics, digital control systems). Built Python pipelines for handwritten Arabic attendance sheets (fuzzy name matching) and grade processing |
-| **2024 to now** | **Project lead & sole backend dev**, [PopCors](https://popcors.com) (freelance) | EdTech platform with 900+ active users across the UAE and KSA: payments, video streaming, course management, and a migration off Cordova to Flutter |
 | **Jul to Sep 2024** | **Software Development Intern**, ITI | Android app in Kotlin with Retrofit and Room |
-| **Nov 2022 to Oct 2026** | **Webmaster**, [IEEE Mansoura Student Branch](https://mansoura.ieee.org/) | Led 10+ engineers shipping 16+ systems: OAuth2 identity, recruitment, wallet ticketing, IEEE Victoris, RAG rule checker, credentialing |
-| **Sep 2023 to Oct 2024** | **Team Coordinator**, [CAT Reloaded](https://catreloaded.org/) | Led 700+ members across 17 circles and 4 events with 1,960 registrations. Revived the PodCAT podcast |
-| **2022 to now** | **Founder**, [Elyra](https://elyra.games/) | Realtime multiplayer games platform and client products |
-| **2023** | **Back-End Instructor**, UCCD Mansoura | Designed and taught a 6-week Node.js and Express course |
+| **Nov 2022 to Oct 2026** | **Webmaster**, [IEEE Mansoura Student Branch](https://mansoura.ieee.org/) | Led 10+ engineers shipping 16+ systems: OAuth2 identity, recruitment, wallet ticketing, IEEE Victoris, RAG rule checker, credentialing, Next.js site and 5 dashboards |
+| **Sep 2023 to Oct 2024** | **Team Coordinator**, [CAT Reloaded](https://catreloaded.org/) | 17 circles, 700+ members, 4 events with 1,960 registrations, 1,084 recruitment applicants. Revived the PodCAT podcast |
+| **2022 to 2023** | **CAT App Project Manager**, CAT Reloaded | Sprints, task distribution, backend and database development |
+| **Sep 2022 to Sep 2023** | **Flutter Circle Head**, CAT Reloaded | Led and mentored 40+ members, planned the roadmap, designed a QR-based attendance system the circle adopted |
+| **2022** | **Software Competition Coordinator**, IEEE Mansoura | Designed the competition model for 26 teams and 155 participants |
+| **2023** | **Back-End Instructor**, UCCD Mansoura | 6-week Node.js and Express curriculum for 10+ students |
 
 **🏅 ALLaM Challenge finalist (SDAIA, Riyadh, 2024).** Selected for the national final with a Flutter app powered by ALLaM, SDAIA's Arabic LLM: a multimodal ReAct agent with RAG, backed by Node.js/TypeScript and Python AI services.
 
@@ -146,13 +152,16 @@
 <td width="50%" valign="top">
 
 **🏁 IEEE Victoris**<br/>
-<sub>Registration to automated judging, end to end. 1,137 participants on 289 teams in season 5, 3,700+ across seasons 2 to 5.</sub>
+<sub>Registration to automated judging, end to end, with Discord and WhatsApp notifications and 190+ booked mentoring slots. 1,137 participants on 289 teams in season 5, 3,700+ across seasons 2 to 5.</sub>
 
 **🤖 RAG rule checker**<br/>
 <sub>LangChain + Gemini flags team eligibility automatically. Plus AI-assisted judging for system design submissions.</sub>
 
 **📜 Credentialing**<br/>
-<sub>PDF signing with public verification. 978 certificates issued.</sub>
+<sub>PDF signing, cloud storage, public verification and an Add to LinkedIn button. 978 certificates issued.</sub>
+
+**🧩 Website & dashboards**<br/>
+<sub>Next.js website and 5 dashboards (recruitment, volunteer, judging, Victoris admin, CodeRefine) on shared APIs.</sub>
 
 </td>
 </tr>
@@ -205,12 +214,29 @@
 
 </div>
 
+### 🧪 More projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| **PopCors** (2024 to now) | EdTech platform for 900+ active users in the UAE and KSA: payments, video streaming, courses, migration off Cordova to Flutter | Node · TypeScript · Prisma · PostgreSQL · Flutter |
+| **Competition Judging System** (IEEE Victoris) | Judging platform across 6 competitions and 100+ teams, automating score computation | Node · TypeScript · Next.js |
+| **CodeSteps LMS** (IEEE) | Learning dashboard for kids: lessons, slides, timetable, assignments (20+ students) | Node · TypeScript · Next.js |
+| **ElyraGames** ([elyra.games](https://elyra.games/)) | Realtime multiplayer games with savable state, shared rooms, chat, leaderboards. 586+ rooms hosted and 32 completed games | Node · TypeScript · WebSockets |
+| **Student Telegram Bot** (2022 to now) | Timetables, reminders, lecture notes and recordings for 120+ students | Kotlin · Ktor |
+| **Multi-platform bot** (2018 to now) | Messenger, Discord and Telegram bot with custom command parsing, group rules, reward points and games | Java · Node · TypeScript |
+| **Unified auth system** (2017 to now) | Central login with OAuth2 grant types, JWTs and password reset, reused across projects | Java · Restlet |
+| **Version checking & updating system** (2016 to now) | Dashboard and API for distributing software updates, with Java, JavaScript and Dart client libraries | Java · Restlet |
+| **Mozakrtna** (2020) | Study app: YouTube playlist tracking and notifications, study plans with a points system | Flutter · Node |
+| **egyFWD backends** (2022) | Image processing and caching service, e-commerce API with auth, deployment to AWS | Node |
+
 ### 🏆 Competitions & hackathons
 
 | Project | What it is | Stack |
 |---|---|---|
 | [**CashWise**](https://github.com/CashWiseProject) | **Graduation project (A+).** I led a 10-person team across backend, AI and mobile tracks: multi-wallet finance platform with OCR receipt scanning, voice input, an AI chatbot and real-time WebSocket sync | Node · TypeScript · Prisma · WebSockets · Python |
 | [**ALLaM Challenge** (Allam Future Makers)](https://github.com/Allam-Future-Makers) | **National finalist, Riyadh.** Flutter app with a multimodal ReAct agent and RAG on SDAIA's Arabic LLM | Flutter · ALLaM · Node · Python |
+| [**NASA Space Apps Cairo**](https://spaceappscairo.com/) | 2023: NLP pipeline analyzing aerospace requirements documents for errors and safety recommendations. 2024: web platform on NASA Landsat data for AI-driven temperature and agriculture predictions | Python · NLP · Web |
+| **Micromouse & Sumo Robot** | Micromouse (IEEE Mansoura, 2022) maze-solving software in Java and C++, quarterfinals. Sumo robot (2021) built with Arduino and C, quarterfinals | Java · C++ · Arduino |
 | [**IEEE Victoris hackathon builds**](https://github.com/ieee-victoris-4-0) | Postify, TaleOn and FounderX: AI products with backend, Flutter and AI tracks | TypeScript · Flutter · AI |
 | [**Delulu.inc · CashOverflow**](https://github.com/Victoris-5-0/Delulu.inc-CashOverflow-Backend) | Fintech hackathon backend | TypeScript · REST |
 | [**Spectra Mappers**](https://github.com/SpectraMappers) | Mapping project with backend and data pipeline | Node · Data |
@@ -220,10 +246,10 @@
 <summary><b>🔒 Private work I can talk about</b></summary>
 <br/>
 
-- **PopCors**: production EdTech platform (900+ active users, UAE and KSA)
 - **IEEE Mansoura systems**: identity, recruitment, ticketing, Victoris, credentialing, judging
 - **Baxter**: personal Discord and Telegram bot for my friend group
 - **Infra / HosServers**: self-hosted infrastructure and deployments
+- **PopCors**: production EdTech platform for the UAE and KSA
 - **Client and product work**: Ura Lounge ERP, Marioma, Learnest, Manaber, Yayora, Blood Bank, QR ticketing, Smart Home, Fire Helmet
 
 </details>
